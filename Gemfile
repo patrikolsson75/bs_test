@@ -21,7 +21,8 @@ group :assets do
 end
 
 gem 'jquery-rails'
-gem "less", "~> 2.0.6"
+gem 'less-rails-bootstrap'
+gem 'simple_form', '>= 2.0.0.rc'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'

@@ -37,10 +37,12 @@
     <orderEntry type="library" scope="PROVIDED" name="jquery-rails (v2.0.0, RVM: ruby-1.9.2-p290 [bs_test]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="json (v1.6.5, RVM: ruby-1.9.2-p290 [bs_test]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="less (v2.0.9, RVM: ruby-1.9.2-p290 [bs_test]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="less-rails (v2.1.6, RVM: ruby-1.9.2-p290 [bs_test]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="less-rails-bootstrap (v2.0.5, RVM: ruby-1.9.2-p290 [bs_test]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="libv8 (v3.3.10.4, RVM: ruby-1.9.2-p290 [bs_test]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mail (v2.4.1, RVM: ruby-1.9.2-p290 [bs_test]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.17.2, RVM: ruby-1.9.2-p290 [bs_test]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.0.4, RVM: ruby-1.9.2-p290 [bs_test]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.1.0, RVM: ruby-1.9.2-p290 [bs_test]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="polyglot (v0.3.3, RVM: ruby-1.9.2-p290 [bs_test]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v1.4.1, RVM: ruby-1.9.2-p290 [bs_test]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-cache (v1.1, RVM: ruby-1.9.2-p290 [bs_test]) [gem]" level="application" />
@@ -52,6 +54,7 @@
     <orderEntry type="library" scope="PROVIDED" name="rdoc (v3.12, RVM: ruby-1.9.2-p290 [bs_test]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass (v3.1.15, RVM: ruby-1.9.2-p290 [bs_test]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass-rails (v3.2.4, RVM: ruby-1.9.2-p290 [bs_test]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="simple_form (v1.5.2, RVM: ruby-1.9.2-p290 [bs_test]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets (v2.1.2, RVM: ruby-1.9.2-p290 [bs_test]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.5, RVM: ruby-1.9.2-p290 [bs_test]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="therubyracer (v0.9.10, RVM: ruby-1.9.2-p290 [bs_test]) [gem]" level="application" />

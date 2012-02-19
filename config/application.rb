@@ -11,6 +11,11 @@ end
 
 module BsTest
   class Application < Rails::Application
+
+    initializer :datatables_asset_base, :group => :all,  :after => :append_assets_path do
+      config.assets.paths.unshift Rails.root.join("lib", "assets", "datatables").to_s
+    end
+
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded.
@@ -55,5 +60,6 @@ module BsTest
 
     # Version of your assets, change this if you want to expire all your assets
     config.assets.version = '1.0'
+
   end
 end

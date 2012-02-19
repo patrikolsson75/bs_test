@@ -1,0 +1,11 @@
+<%= simple_form_for(@event, :html => {:class => 'form-horizontal' }) do |f| %>
+    <legend>Event</legend>
+    <%= f.error_notification %>
+    <%= f.input :name %>
+    <%= f.input :start, :as => :string %>
+    <%= f.input :end, :as => :string %>
+    <%= f.input :description, :hint => 'Describe the event', :input_html => { :rows => 3 } %>
+    <div class="form-actions">
+    <%= f.button :submit, :class => 'btn-primary' %>
+    </div>
+<% end %>
